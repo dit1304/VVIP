@@ -4,11 +4,6 @@
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/dit1304/VVIP/main/main.sh && chmod +x main.sh && ./main.sh
 ```
 
-## UPDATE SCRIPT
-```
-WGET LU TAII
-```
-
 ### UDP
 ```
 wget https://raw.githubusercontent.com/dit1304/udp/main/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh
