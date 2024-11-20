@@ -27,7 +27,7 @@ clear;clear;clear
 echo -e "${BLUE}----------------------------------------------------------${NC}"
 echo -e " WELCOME TO ZERO STORE SCRIPT ${BLUE}(${NC}${green}Stable Edition${NC}${BLUE})${NC}"
 echo -e " PROSES PENGECEKAN IP ADDRESS ANDA !!"
-echo -e "${purple}----------------------------------------------------------${NC}"
+echo -e "${BLUE}----------------------------------------------------------${NC}"
 echo -e " ›AUTHOR : ${green} ZERO STORE ® ${NC}${BLUE}(${NC}${green}V 0.0${NC}${BLUE})${NC}"
 echo -e " ›TEAM : ZERO STORE ${BLUE}(${NC} 2024 ${BLUE})${NC}"
 echo -e "${BLUE}----------------------------------------------------------${NC}"
