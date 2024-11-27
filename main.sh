@@ -264,8 +264,8 @@ clear
 #GANTI PASSWORD DEFAULT
 restart_system(){
 #IZIN SCRIPT
-curl "ipinfo.io/org?token=7a814b6263b02c" > /root/.isp 
-curl "ipinfo.io/city?token=7a814b6263b02c" > /root/.city
+curl "ipinfo.io/org?token=f209571547ff6b" > /root/.isp 
+curl "ipinfo.io/city?token=f209571547ff6b" > /root/.city
 MYIP=$(curl -sS ipv4.icanhazip.com)
 echo -e "\e[32mloading...\e[0m" 
 clear
@@ -317,7 +317,7 @@ TIMEZONE=$(printf '%(%H:%M:%S)T')
 <code>────────────────────</code>
 <code>User     :</code><code>$username</code>
 <code>IP       :</code><code>$IP</code>
-<code>DOMAIN   :</code><code>$DOMAIN</code>
+<code>DOMAIN   :</code><code>$domain</code>
 <code>ISP      :</code><code>$ISP</code>
 <code>OS       :</code><code>$OS_Name</code>
 <code>RAM      :</code><code>$mem_total</code>
